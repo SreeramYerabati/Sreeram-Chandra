@@ -17,6 +17,7 @@ https://www.linkedin.com/in/sreeramchandra-y/ <br>
 Contact: sreeramchandra80@gmail.com 
 
 ### 🔝 My Projects.
+(https://github.com/SreeramYerabati/Major-League-Baseball-Analysis.git)<br>
 (https://github.com/SreeramYerabati/Loan-Analysis.git)<br>
 (https://github.com/SreeramYerabati/Agriculture-Analysis.git)
 
